@@ -1,0 +1,1 @@
+This is a simple Photo Gallery made using HTML5 and CSS3 to illustrate float property of CSS3.
